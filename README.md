@@ -1,5 +1,5 @@
 # Basic dApp NFT Landing Page
-
+#jay vishwakarma
 This repo is a work-in-progress and pairs with my Mint 10k NFT project. 
 
 ## Video Walkthrough
